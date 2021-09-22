@@ -1,0 +1,18 @@
+#main {
+  width: 100%;
+  height: 100px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  background: rgb(236, 131, 231);
+}
+
+.actions {
+  padding: 1.5rem;
+  text-align: center;
+}
+.imglogo img {
+  width: 100px;
+  height: 80px;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
